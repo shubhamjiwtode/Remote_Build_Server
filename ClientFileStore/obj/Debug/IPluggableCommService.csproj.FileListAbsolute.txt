@@ -1,0 +1,2 @@
+C:\Users\cwc\Downloads\MessagePassingComm\ClientFileStore\obj\Debug\IPluggableCommService.csprojResolveAssemblyReference.cache
+C:\Users\cwc\Downloads\MessagePassingComm\ClientFileStore\obj\Debug\IPluggableCommService.csproj.CoreCompileInputs.cache

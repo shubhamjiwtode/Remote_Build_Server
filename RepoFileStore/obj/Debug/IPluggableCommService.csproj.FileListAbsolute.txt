@@ -1,0 +1,1 @@
+D:\SMA\proj_3\Project3\ServiceFileStore\obj\Debug\IPluggableCommService.csproj.CoreCompileInputs.cache

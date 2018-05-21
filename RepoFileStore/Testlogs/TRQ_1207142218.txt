@@ -1,0 +1,109 @@
+Test Started at: 12/7/2017 11:38:04 PM
+PROCESSOR_ARCHITEW6432=AMD64
+COMPUTERNAME=DESKTOP-PVO7NCJ
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\cwc\OneDrive
+HOMEPATH=\Users\cwc
+VisualStudioEdition=Microsoft Visual Studio Community 2017
+PROCESSOR_REVISION=3d04
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile=C:\Users\cwc\AppData\Local\Microsoft\VisualStudio\15.0_4c489b95\devenv.exe.config
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-PVO7NCJ
+TEMP=C:\Users\cwc\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\cwc\AppData\Local
+PUBLIC=C:\Users\Public
+VSAPPIDNAME=devenv.exe
+VSSNSESLNASFLDR=1
+JAVA_HOME=C:\Program Files\Java\jdk8
+USERDOMAIN=DESKTOP-PVO7NCJ
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre8\bin;C:\Program Files\Java\jdk8\bin;C:\Users\cwc\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
+VisualStudioVersion=15.0
+_NO_DEBUG_HEAP=1
+PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+NUMBER_OF_PROCESSORS=4
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VisualStudioDir=C:\Users\cwc\Documents\Visual Studio 2017
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+SNP=http://%66%65%65%64.%68%65%6C%70%65%72%62%61%72.%63%6F%6D?publisher=APSFWakeNet&co=IN&userid=73613d21-ea3c-3a47-e70b-3b6bdf6d9872&searchtype=sc&installDate=19/10/2016&barcodeid=51198003&channelid=3&av=avast
+ENABLE_XAML_DIAGNOSTICS_SOURCE_INFO=1
+VSSKUEDITION=Community
+TMP=C:\Users\cwc\AppData\Local\Temp
+VSAPPIDDIR=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+SNF=C:\ProgramData\Quoteexs\snp.sc
+SystemRoot=C:\WINDOWS
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\DESKTOP-PVO7NCJ
+USERPROFILE=C:\Users\cwc
+MSBuildLoadMicrosoftTargetsReadOnly=true
+VSLANG=1033
+APPDATA=C:\Users\cwc\AppData\Roaming
+HOMEDRIVE=C:
+USERNAME=cwc
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+__COMPAT_LAYER=Installer
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+loading
+
+12/7/2017 11:38:04 PM
+Simulated Testing completed
+ft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.15063.0\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre8\bin;C:\Program Files\Java\jdk8\bin;C:\Users\cwc\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+__VSCMD_PREINIT_PATH=C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre8\bin;C:\Program Files\Java\jdk8\bin;C:\Users\cwc\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
+APPDATA=C:\Users\cwc\AppData\Roaming
+PROMPT=$P$G
+WindowsSdkVerBinPath=C:\Program Files (x86)\Windows Kits\10\bin\10.0.15063.0\
+VS150COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\
+ProgramFiles(x86)=C:\Program Files (x86)
+NUMBER_OF_PROCESSORS=4
+SNP=http://%66%65%65%64.%68%65%6C%70%65%72%62%61%72.%63%6F%6D?publisher=APSFWakeNet&co=IN&userid=73613d21-ea3c-3a47-e70b-3b6bdf6d9872&searchtype=sc&installDate=19/10/2016&barcodeid=51198003&channelid=3&av=avast
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VCINSTALLDIR=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\
+WindowsLibPath=C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.15063.0\;C:\Program Files (x86)\Windows Kits\10\References\10.0.15063.0\
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-PVO7NCJ
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+WindowsSDK_ExecutablePath_x64=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\
+VSCMD_ARG_app_plat=Desktop
+__DOTNET_ADD_32BIT=1
+UniversalCRTSdkDir=C:\Program Files (x86)\Windows Kits\10\
+SystemRoot=C:\WINDOWS
+SNF=C:\ProgramData\Quoteexs\snp.sc
+CommonProgramW6432=C:\Program Files\Common Files
+VSINSTALLDIR=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+LOGONSERVER=\\DESKTOP-PVO7NCJ
+FrameworkVersion32=v4.0.30319
+USERPROFILE=C:\Users\cwc
+WindowsSdkDir=C:\Program Files (x86)\Windows Kits\10\
+CommandPromptType=Native
+FrameworkVersion=v4.0.30319
+ProgramData=C:\ProgramData
+__DOTNET_PREFERRED_BITNESS=32
+VisualStudioVersion=15.0
+PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+VSCMD_ARG_TGT_ARCH=x86
+USERNAME=cwc
+WindowsSDK_ExecutablePath_x86=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+loading
+
+12/7/2017 11:19:20 PM
+Simulated Testing completed

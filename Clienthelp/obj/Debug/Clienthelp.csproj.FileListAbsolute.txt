@@ -1,0 +1,10 @@
+F:\Proj4\Proj4\Clienthelp\bin\Debug\Clienthelp.dll
+F:\Proj4\Proj4\Clienthelp\bin\Debug\Clienthelp.pdb
+F:\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.csproj.CoreCompileInputs.cache
+F:\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.dll
+F:\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.pdb
+D:\Proj4\Proj4\Proj4\Clienthelp\bin\Debug\Clienthelp.dll
+D:\Proj4\Proj4\Proj4\Clienthelp\bin\Debug\Clienthelp.pdb
+D:\Proj4\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.csproj.CoreCompileInputs.cache
+D:\Proj4\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.dll
+D:\Proj4\Proj4\Proj4\Clienthelp\obj\Debug\Clienthelp.pdb
